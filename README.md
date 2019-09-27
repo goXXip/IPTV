@@ -4,7 +4,7 @@
 
 Clone files to system
 ~~~~
-git clone https://github.com/INUI-Dev/IPTV.git
+git clone https://github.com/goXXip/IPTV.git
 ~~~~
 
 cd to IPTV then desired OS folder and mv files to root
